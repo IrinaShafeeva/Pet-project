@@ -1,1 +1,1 @@
-# Web-scraping-project
+# Pet project
